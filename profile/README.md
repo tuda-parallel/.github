@@ -9,5 +9,12 @@ is a batch-system simulator supporting the evaluation of scheduling algorithms f
 
 * [**Extra-P** (external repository)](https://github.com/extra-p/extrap) \
 helps developers analyze the scaling behavior of parallel programs by learning performance models automatically from a small set of performance measurements.
+
+* [**FTIO** (local repository)](https://github.com/tuda-parallel/FTIO) \
+  captures periodic I/O using frequency techniques.
+
 * [**RELeARN** (local repository)](https://github.com/tuda-parallel/RELeARN) \
 is a scalable brain simulator for structural plasticity.
+
+* [**TMIO** (local repository)](https://github.com/tuda-parallel/TMIO) \
+  traces synchronous and asynchronous MPI-IO of HPC applications.
